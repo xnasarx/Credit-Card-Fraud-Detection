@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection
-Linear CLassifier
+Linear CLassifier, MLPC and Random Forest Classifier.
